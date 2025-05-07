@@ -1,0 +1,6 @@
+1|Organic Apples|Fresh organic apples from local farms|https://vincesmarket.ca/wp-content/uploads/2021/09/Untitled-design-6.png|50|2.99|Fruits
+2|Organic Oranges|Fresh organic apples from local farms|https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQRoVlbiEoAA15yclvKJBO5OBS3Yd0xB9f59w&s|502|2.99|Fruits
+3|Grapes |Fresh organic apples from local farms|https://hips.hearstapps.com/hmg-prod/images/766/grapes-main-1506688521.jpg?crop=0.848xw:1xh;center,top&resize=1200:*|50|2.99|Fruits
+4|Nadu Rice 5kg Bulk|Araliya nadu rice 5kg|https://objectstorage.ap-mumbai-1.oraclecloud.com/n/softlogicbicloud/b/cdn/o/products/600-600/113859--01--1644720573.jpeg|50|1150.0|Grains & Bread
+5|White Sugar|White Sugar - 100g|https://img.livestrong.com/-/clsd/getty/a61a26f4c6584644b8a367aeeb9d0fe2.jpg|50|60.3|Condiments
+6|Chicken Breast|Chicken breast - 500g|https://www.foodcoachforme.com/wp-content/uploads/2020/03/chicken-with-garlic-and-rosemary-scaled.jpg|10|922.5|Meat & Fish
